@@ -34,3 +34,7 @@ Modificacion Bien hecha por TroyPineda
 Modificación BIEN hecha por Nerea De La Torre Martin
 
 Y aquí venía lo de Justine, pero no se ha podido añadir
+
+Añade aquí debajo los comentarios de la práctica 3:
+<!-- A partir de aquí (esta línea no se muestra) -->
+
