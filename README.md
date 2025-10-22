@@ -1,8 +1,7 @@
 # Proyecto para probar el Fork
 
 ----
-Añade aquí debajo tus comentarios:
-
+## Comentarios de la práctica 2
 <!-- A partir de aquí (esta línea no se muestra) -->
 
 Modificación BIEN hecha por Ion Madan
@@ -35,6 +34,6 @@ Modificación BIEN hecha por Nerea De La Torre Martin
 
 Y aquí venía lo de Justine, pero no se ha podido añadir
 
-Añade aquí debajo los comentarios de la práctica 3:
+## Comentarios de la práctica 3:
 <!-- A partir de aquí (esta línea no se muestra) -->
 
