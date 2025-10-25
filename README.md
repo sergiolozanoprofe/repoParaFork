@@ -1,6 +1,3 @@
-# Proyecto para probar el Fork
+Extensión hecha por AlejandroHerreroGanso
 
-----
-Añade aquí debajo tus comentarios:
-
-<!-- A partir de aquí (esta línea no se muestra) -->
+Desarrollo de una parte experimental
