@@ -6,6 +6,8 @@ Añade aquí debajo tus comentarios:
 
 "Desarrollo de la extensión 1"
 
+"Desarrollo de una parte experimental"
+
 Extensión hecha por Miguel Alejandro Rincones
 
 Modificación BIEN hecha por Alejandro Herrero Ganso.
