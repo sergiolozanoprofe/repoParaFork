@@ -2,5 +2,6 @@
 
 ----
 Añade aquí debajo tus comentarios:
-Extensión hecha por Alejandra Irigoyen
+Extensión hecha por Alejandra Irigoyen - Desarrollo de la extensión 1
+
 <!-- A partir de aquí (esta línea no se muestra) -->
