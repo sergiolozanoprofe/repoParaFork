@@ -6,3 +6,5 @@ Añade aquí debajo tus comentarios:
 <!-- A partir de aquí (esta línea no se muestra) -->
 
 Extensión hecha por Daniel Gómez
+
+Desarrollo de la extensión 1
