@@ -2,6 +2,8 @@
 
 ----
 Añade aquí debajo tus comentarios:
+Extensión hecha por ALVARO SANTOS AGUIRRE
+DESARROLLO DE LA EXTENSION 2
 EXTENSION HECHA POR Alvaro Santos Aguirre
 Desarrollo de la extensión 1
 
