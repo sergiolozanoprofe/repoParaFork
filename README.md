@@ -2,6 +2,7 @@
 
 ----
 ## Comentarios de la práctica 2
+Añade aquí debajo tus comentarios:
 <!-- A partir de aquí (esta línea no se muestra) -->
 
 Modificación BIEN hecha por Ion Madan
@@ -29,6 +30,8 @@ Modificacion BIEN hecha por Jorge Berlanga de la Fuente
 Modificacion BIEN hecha por Samuel Simeon
 
 Modificacion Bien hecha por TroyPineda
+
+modificacion BIEN hecha por Alvaro Santos Aguirre
 
 Modificación BIEN hecha por Nerea De La Torre Martin
 
