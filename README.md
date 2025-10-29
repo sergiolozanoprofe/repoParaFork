@@ -37,3 +37,7 @@ Y aquí venía lo de Justine, pero no se ha podido añadir
 ## Comentarios de la práctica 3:
 <!-- A partir de aquí (esta línea no se muestra) -->
 
+Extension hecha por Nerea De La Torre Martin
+Desarrollo de la extension 1
+Desarrollo de una parte experimental
+Desarrollo de la extension 2
