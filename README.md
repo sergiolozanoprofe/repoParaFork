@@ -1,22 +1,7 @@
 # Proyecto para probar el Fork
 
----
-
-Añade aquí debajo tus comentarios:
-
-"Desarrollo de la extensión 1"
-
-"Desarrollo de una parte experimental"
-
-Extensión hecha por Miguel Alejandro Rincones
-
-
-"Desarrollo de la extensión 2"
-
-
 ----
 ## Comentarios de la práctica 2
-Añade aquí debajo tus comentarios:
 <!-- A partir de aquí (esta línea no se muestra) -->
 
 Modificación BIEN hecha por Ion Madan
@@ -36,17 +21,9 @@ Modificación BIEN hecha por Daniel Gómez
 Modificación BIEN hecha por LucasMartínezRodríguez
 
 modificacion BIEN hecha por Sophia Forero
-Modificación BIEN hecha por Breinner Imbachi
-
-<!-- A partir de aquí (esta línea no se muestra) -->
-
-Modificación BIEN hecha por Ion Madan
 
 Modificación BIEN hecha por Breinner Imbachi
 
-ECHO está activado.
-"Modificacion BIEN hecha por Jorge Berlanga de la Fuente"
-Modificacion BIEN hecha por Samuel Simeon
 Modificacion BIEN hecha por Jorge Berlanga de la Fuente
 
 Modificacion BIEN hecha por Samuel Simeon
@@ -71,3 +48,14 @@ Desarrollo de la extension 2
 Jorge (que no ha puesto el nombre)
 Desarrollo de una parte experimental
 Desarrolo de la extension 2
+
+Extensión hecha por Miguel Alejandro Rincones
+"Desarrollo de la extensión 1"
+"Desarrollo de una parte experimental"
+"Desarrollo de la extensión 2"
+
+EXTENSION HECHA POR CRISTOPHER JOSEPH ORELLANA RODRIGUEZ
+DESARROLLO DE LA EXTENCION 1
+DESARROLLO DE UNA PARTE EXPERIMENTAL
+DESARROLLO DE LA EXTENCION 2. 
+
