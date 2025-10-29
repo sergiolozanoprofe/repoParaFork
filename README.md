@@ -4,6 +4,8 @@
 ## Comentarios de la práctica 2
 <!-- A partir de aquí (esta línea no se muestra) -->
 
+Modificación BIEN hecha por Alejandra Irigoyen
+
 Modificación BIEN hecha por Ion Madan
 
 Modificación BIEN hecha por Alejandro Herrero Ganso.
