@@ -61,9 +61,14 @@ DESARROLLO DE LA EXTENCION 1
 DESARROLLO DE UNA PARTE EXPERIMENTAL
 DESARROLLO DE LA EXTENCION 2. 
 
-
 Extensión hecha por Daniel Gómez
 Desarrollo de la extensión 1
 Desarrollo de una parte experimental
 Extensión 2 Daniel Gómez
 Desarrollo de la extensión 2
+
+Extensión hecha por ALVARO SANTOS AGUIRRE
+DESARROLLO DE LA EXTENSION 2
+EXTENSION HECHA POR Alvaro Santos Aguirre
+Desarrollo de la extensión 1
+Desarrollo de una parte experimental
