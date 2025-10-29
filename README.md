@@ -72,3 +72,6 @@ DESARROLLO DE LA EXTENSION 2
 EXTENSION HECHA POR Alvaro Santos Aguirre
 Desarrollo de la extensión 1
 Desarrollo de una parte experimental
+
+creación de la rama para la extensión 2 - "Desarrollo de la extensión 2"
+Extensión hecha por Alejandra Irigoyen - Desarrollo de la extensión 1 - Desarrollo de una parte experimental
