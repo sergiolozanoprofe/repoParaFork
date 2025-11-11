@@ -87,4 +87,4 @@ desarrollo de una parte experimental
 
 Desarrollo de la extensión 2. Lexx
 
-Desarrollo de la extensión 2. Breiner
+Desarrollo de la extensión 2. BreinerModificaci�n BIEN hecha por diegotumialan 
